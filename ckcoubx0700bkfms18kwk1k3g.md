@@ -87,9 +87,9 @@ Caso você parta para uma abordagem baseada em Docker, poderá ter uma tecnologi
 Agora, com relação as vantagens de se escolher o Docker:
 
 - A máquina do desenlvovedor, nuvem e a infra do cliente falam a mesma língua -- nada mais de "mas na minha máquina roda"
-- Menos consumo de recursos, menos consumo de energia, menos hardware potente... Em suma: mesmos gastos e, em alguns casos, por 1/3 do preço atual
+- Menos consumo de recursos, menos consumo de energia, menos hardware potente... Em suma: mesnos gastos e, em alguns casos, por 1/3 do preço atual
 - Facilidade de atualizar a aplicação sem quebrar o host e vice-versa
-- Ao mesmo tempo que empodera o desenlvovedor, flexibliza a vida do time da infra que for rodar o sistema porque conseguem verificar, validar e executar tudo com maior nivel de segurança, disponibilidade e redundância
+- Ao mesmo tempo que empodera o desenlvovedor, flexibliza a vida do time da infra que for rodar o sistema porque conseguem verificar, validar e executar tudo com maior nível de segurança, disponibilidade e redundância
 - Caso tenha que portar para outros ambientes de produção como Virtual Machines (VMs) ou até mesmo o SA, vai conseguir com facilidade pois o Docker roda baseado no `Dockerfile` -- um arquivo de texto com a listagem de dependências de sistema
 - etc
 
