@@ -10,7 +10,7 @@ Com mais de 200 milhões de vendas -- o que representa um dobro no número de ve
 - Se todas as vendas fossem feitas pelo [preço atual](https://www.microsoft.com/pt-br/p/minecraft-for-windows-10/9nblggh2jhxj?activetab=pivot:overviewtab) de aproximadamente 100 reais, o jogo teria rendido 20 bilhões de reais em vendas
 - Considerando os quase 8 bilhões de reais que a Microsoft pagou na compra do jogo há 5 anos, o total em vendas equivale há 2.5 vezes o valor de compra
 
-E, assim como alguns jogos, durante a quarentena teve um aumento de popularidade. por volta de 25% em novos jogadores e 40% nas partidas online.
+E, assim como alguns jogos, durante a quarentena teve um aumento de popularidade, sendo por volta de 25% em novos jogadores e 40% nas partidas online.
 
 Como em vários jogos, muitas partidas online tem tido instabilidade devido há problemas de conexão de rede. Todavia, no caso de Minecraft você pode ter um servidor em casa:
 
@@ -96,7 +96,7 @@ A ideia inicial era fazer o [Cuberite](https://github.com/cuberite/cuberite)  --
 
 ## Apêndice
 
-- Foi considerado o preço de 1 dólar como 3.19 reais como o valor do  [dólar em 2015](http://g1.globo.com/economia/mercados/noticia/2015/12/dolar-termina-ultima-sessao-do-ano-em-alta.html). Inflação, poder de compra, preços em promoção e etc foram desconsiderados para fazer as contas; não porque eles não são importantes, mas como não possuo um conhecimento de economia para tal, resolvi fazer conversões simples e deixar claro que outros fatores foram desconsiderados.
+- Foi considerado o preço de 1 dólar como 3.19 reais como o valor do  [dólar em 2015](http://g1.globo.com/economia/mercados/noticia/2015/12/dolar-termina-ultima-sessao-do-ano-em-alta.html). Inflação, poder de compra, preços em promoção e etc. foram desconsiderados para fazer as contas; não porque eles não são importantes, mas como não possuo um conhecimento de economia para tal, resolvi fazer conversões simples e deixar claro que outros fatores foram desconsiderados.
 - Não consegui fazer o servidor rodar por mais de alguns segundos na [Odroid-C2](https://www.hardkernel.com/shop/odroid-c2/), acredito que seja limitações do hardware em si uma vez que procurei rodar apenas com o Docker, sem o Rancher por cima.
 - Caso queira realmente jogar com celulares, não há suporte da imagem  [`itzg/minecraft-bedrock-server`](https://hub.docker.com/r/itzg/minecraft-bedrock-server) ainda para arquiteturas ARMs, então provavelmente seguiria passos similares só que rodando em um servidor x86.
 
