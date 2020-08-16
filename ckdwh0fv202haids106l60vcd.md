@@ -14,7 +14,7 @@ E, assim como alguns jogos, durante a quarentena teve um aumento de popularidade
 
 Como em vários jogos, muitas partidas online tem tido instabilidade devido há problemas de conexão de rede. Todavia, no caso de Minecraft você pode ter um servidor em casa:
 
-- Para jogar de multiplos dispositivos um mesmo mundo
+- Para jogar de múltiplos dispositivos um mesmo mundo
 - Para jogar com os filhos e irmãos 
 - Ou até mesmo amigos que moram perto de ti
 
