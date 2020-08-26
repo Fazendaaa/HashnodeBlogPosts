@@ -67,9 +67,7 @@ Uma vez que vários tutoriais para realizar tal tarefa com a "Raspi" já existem
 
 ![photo_2020-08-09_20-02-59.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1597014256188/KZemY5Ngl.jpeg)
 
-A sequência de textos publicados até
-IMAGEM AQUI DA IMPRESSORA 3D
- agora mostram que a abstração permitida pela combinação [Docker](https://www.docker.com/) +  [Rancher](https://rancher.com/) auxilia quem não tem conhecimento com configurações de sistema e/ou desenvolvimento de código configurar um servidor a rodar as aplicações que precisa com uma tela de configuração no seu navegador, quase como uma uma configuração de modem novo quando precisa digitar um ip no seu navegador e fazer as configurações necessárias.
+A sequência de textos publicados até agora mostram que a abstração permitida pela combinação [Docker](https://www.docker.com/) +  [Rancher](https://rancher.com/) auxilia quem não tem conhecimento com configurações de sistema e/ou desenvolvimento de código configurar um servidor a rodar as aplicações que precisa com uma tela de configuração no seu navegador, quase como uma uma configuração de modem novo quando precisa digitar um ip no seu navegador e fazer as configurações necessárias.
 
 O Rancher 'smartificou' o servidor, uma vez que você procura as aplicações que precisa com facilidade em uma 'loja' -- o [Docker hub](https://hub.docker.com) -- e clicar para configurar e rodar.
 
