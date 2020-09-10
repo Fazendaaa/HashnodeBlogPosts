@@ -143,7 +143,7 @@ Progressive Web Apps (PWA) como já mostrados [neste](https://fazenda.hashnode.d
 
 E o koel também. Ou seja, você tem um site e um app ao mesmo tempo do mesmo serviço como mostrado aqui em um Samsung S8+:
 
-%[https://giphy.com/embed/XZgbWpACzS9yah4Jq0]
+%[https://giphy.com/embed/f6tP3WtwbdbBhbLnFh]
 
 E no Mac configurado de forma similar:
 
