@@ -160,7 +160,7 @@ Além disso, como testes de Rancher rodando na Raspberry Pi 4 estão sendo feito
 
 ![g883.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1602358352516/KCj_8LdjR.png)
 
-A vantagem disso é que agora você pode deixar ela conectada 24h sem consumir tanta energia quanto um computador consumira, uma vez que um simples carregador de celular dá conta das necessidades dela e a eficiência do processo é tão alta que ela só consumirá mais energia mesmo quando estiver em uso. Fora que é do tamanho de um cartão de crédito, não vai ocupar tanto espaço nem fazer barulho -- está da foto está com o dissipador mais parrudo por motivos de ela estar rodando **VÁRIOS** serviços dos já publicados aqui para testes, só que se só utilizar ela para o RetroArch, talvez não seja necessária tal peça.
+A vantagem disso é que agora você pode deixar ela conectada 24h sem consumir tanta energia quanto um computador consumira, uma vez que um simples carregador de celular dá conta das necessidades dela e a eficiência do processo é tão alta que ela só consumirá mais energia mesmo quando estiver em uso. Fora que é do tamanho de um cartão de crédito, não vai ocupar tanto espaço nem fazer barulho -- esta da foto está com o dissipador mais parrudo por motivos de ela estar rodando **VÁRIOS** serviços dos já publicados aqui para testes, só que se só utilizar ela para o RetroArch, talvez não seja necessária tal peça.
 
 Para subir o sistema:
 
