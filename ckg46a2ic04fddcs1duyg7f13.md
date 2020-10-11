@@ -104,7 +104,7 @@ E abrir um navegador, digitar `localhost` e apertar `Enter`.
 
 *Pronto, quer dizer que acabou aqui o texto?*
 
-Na realidade não, isto foi mais apenas para mostar que se quiser parar por aqui e ir jogar, por favor fique a vontade. Só se lembre que `localhost` é um nome apenas para você acessar a sua máquina da sua máquina -- assim como o famoso endereço de várias camisetas, o `127.0.0.1` --; caso queira acessar do seu celular por exemplo, acesse o painel do seu modem e procure pelo o endereço do seu computador, o que deve ser algo do tipo `198.261.0.16` ou coisa do tipo.
+Na realidade não, isto foi apenas para mostar que se quiser parar por aqui e ir jogar, por favor fique a vontade. Só se lembre que `localhost` é um nome apenas para você acessar a sua máquina da sua máquina -- assim como o famoso endereço de várias camisetas, o `127.0.0.1` --; caso queira acessar do seu celular por exemplo, acesse o painel do seu modem e procure pelo o endereço do seu computador, o que deve ser algo do tipo `198.261.0.16` ou coisa do tipo.
 
 ## Server gaming vs Streaming
 
