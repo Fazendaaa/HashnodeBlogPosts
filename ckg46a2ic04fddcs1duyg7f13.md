@@ -35,7 +35,7 @@ Caso você não queria comprar novos aparelhos ou -- em alguns casos -- o própr
 Problemas  atuais:
 
 - Dos apresentados só o Apple Arcade funciona o Brasil -- o que significa uma pequena parcela da populção que joga uma vez que só recentemente a Apple começou a investir nisso
-- Mesmo se conseguir se conectar em servidores dos EUA para jogar os outros serviços, a distância e a velocidade da sua conexão serão fatores que atrapalharam sua experiência
+- Mesmo se conseguir se conectar em servidores dos EUA para jogar os outros serviços, a distância e a velocidade da sua conexão serão fatores que atrapalharão sua experiência
 - No caso do Stadia, quase um ano depois, tem algumas promessas de lançamento do produto que ainda não foram cumpridas
 - A briga da Apple com a Epic Games com relação ao 30% de taxa da App Store; além da briga da mesma Apple com a Microsoft e a Nvidia pelos seus sistemas de streaming de games
 - etc.
