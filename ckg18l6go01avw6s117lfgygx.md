@@ -83,7 +83,7 @@ ssh -l ubuntu ip.da.sua.raspi
 
 4. Rode o seguinte comando:
 ```shell
-curl https://gist.githubusercontent.com/Fazendaaa/8fe033c5428e3f26daf69910693c4d07/raw/459c1fdb50fdd8b953dbcd86846ed6319f3017ae/rasp4Rancher.sh | sh
+curl https://gist.githubusercontent.com/Fazendaaa/8fe033c5428e3f26daf69910693c4d07/raw/8c3299dc457e7d2cbc35340f56261fa8a0e81588/rasp4Rancher.sh | sh
 ```
 
 Este último comando irá instalar o [microk8s](https://microk8s.io/), configurar a sua placa e reiniciar ela para poder ser utilizada nos próximos passos.
@@ -127,16 +127,16 @@ V. Conecte na sua Rapi 4 por SSH:
 ssh -l ubuntu ip.da.sua.raspi
 ```
 
-VI. Coloque o terceiro comando na sua placa -- adicionando `microk8s` na frente do `kubeclt`:
+VI. Coloque o terceiro comando na sua placa:
 
 ```shell
-curl --insecure -sfL https://seu.ip.rancher/chave.yaml | microk8s kubectl apply -f -
+curl --insecure -sfL https://seu.ip.rancher/chave.yaml | kubectl apply -f -
 ```
 
-VII. Coloque o segundo comando -- lembrando de adicionar o `microk8s`:
+VII. Coloque o segundo comando:
 
 ```shell
-microk8s kubectl apply -f https://seu.ip.rancher/chave.yaml
+kubectl apply -f https://seu.ip.rancher/chave.yaml
 ```
 
 VIII. Pronto, sua placa foi registrada:
