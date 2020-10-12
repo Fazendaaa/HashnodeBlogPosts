@@ -83,7 +83,7 @@ ssh -l ubuntu ip.da.sua.raspi
 
 4. Rode o seguinte comando:
 ```shell
-curl https://gist.githubusercontent.com/Fazendaaa/8fe033c5428e3f26daf69910693c4d07/raw/852ee98c6ccd507f0e896af9be6bb40d050889c7/rasp4Rancher.sh | sh
+curl https://gist.githubusercontent.com/Fazendaaa/8fe033c5428e3f26daf69910693c4d07/raw/459c1fdb50fdd8b953dbcd86846ed6319f3017ae/rasp4Rancher.sh | sh
 ```
 
 Este último comando irá instalar o [microk8s](https://microk8s.io/), configurar a sua placa e reiniciar ela para poder ser utilizada nos próximos passos.
