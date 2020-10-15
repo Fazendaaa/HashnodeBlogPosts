@@ -88,6 +88,15 @@ A vantagem desta abordagem atrelada ao Rancher é que você poderá subir um ter
 
 ![g911.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1602635815752/myQXUJM6f.png)
 
+Isso facilita porque você poderá acessar todos e quaisquer cluster que tiver em qualquer lugar, sem precisar de um PC. Ou seja, você poderá acessar remotamente o seu servidor de um:
+
+- Smartphone
+- Tablet
+- SmartTV
+- etc
+
+Basicamente qualquer coisa que rode um navegador.
+
 ## Considerações finais
 
 Para quem já utiliza Linux e Mac há anos sabe que há ferramentas de shell que mostram visualmente se você está em uma conexão remota ou não, seja por mudar a cor do shell em si ou até mesmo matar o terminal atual. Dito isto, este texto sim foi direcionado ao público Windows que nunca utilizou um terminal ou um [PuTTY](https://www.putty.org/); ou até mesmo usuários do Mac que nunca mexeram muito com o terminal deles.
