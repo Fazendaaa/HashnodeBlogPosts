@@ -116,15 +116,15 @@ ssh -l seuUsuario ip.do.cluster.rancher
 ```
   II. Rode os seguintes comandos:
 ```shell
-mkdir ~/postegres
-cd ~/postegres
+mkdir ~/mysql
+cd ~/mysql
 pwd # salve o output deste comando
 ```
   III. Crie um novo deploy:
 ![image1023.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1602208418775/AtyEa4lOc.png)
   IV. Coloque os seguintes valores de variáveis de ambiente:
 ![image1009.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1602208542260/MI8j_Il9A.png)
-  V. Configure o caminho que conseguiu no passo `II` -- no meu caso `/home/ubuntu/postegres` mas no seu pode ser que sejam outros valores:
+  V. Configure o caminho que conseguiu no passo `II` -- no meu caso `/home/ubuntu/mysql` mas no seu pode ser que sejam outros valores:
 ![image995.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1602208718264/Uls5LmTP7.png)
   VI. Selecione a opção de configurações avançadas no canto inferior direito e vá na aba de `Command` e coloque o seuginte comando (`--default-authentication-plugin=mysql_native_password`):
 ![image981.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1602208869115/Iy2V6JcFP.png)
