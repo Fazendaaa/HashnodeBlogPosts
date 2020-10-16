@@ -43,11 +43,11 @@ Caso você seja um *Data Hoarder*: uma pessoa que gosta de ter os conteúdos que
 
 Um projeto que tem a ideia de centralizar as mídias que já posuí para poder consumir elas de qualquer lugar que quiser. Muito parecido com o Netflix, o projeto realmente apresenta muitas características da plataforma, o que auxilia os usuários já acostumados com ela. E a vantagem que por ser um projeto FOSS (Free and Open Source Software), você vai conseguir rodar ele na sua casa.
 
-Você pode você mesmo ver [aqui](https://github.com/streamaserver/streama), o código do projeto todo está disponível para você ver ele:
+Você pode ver [aqui](https://github.com/streamaserver/streama) o código do projeto, ele está disponível para você entender como funcionam:
 
-- Precisa de um navegador para funcionar
-- Sincroniza as informações de filmes e séries
-- Permite continuar a reprodução de onde parou
+- Reprodução de em um navegador
+- Sincronização das informações de filmes e séries
+- Upload de arquivos
 - etc.
 
 O Streama tem o potencial de crescimento muito a do VLC, outro projeto famoso para reprodução de vídeos que também tem uma origem de código aberto. O que te possibilita você mesmo fazer modificações no projeto ou até mesmo fazer uma doação para que eles trabalhem em um função que você queira para ele caso não saiba codificar.
